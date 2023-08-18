@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+table{
+	border-collapse: collapse;
+}
+
+tbody{
+	text-align:right;
+}
+
+th{
+	border: 1px solid black;
+}
+td{
+	border: 1px solid black;
+}
